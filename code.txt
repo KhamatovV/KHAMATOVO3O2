@@ -1,4 +1,7 @@
 #include <iostream>
-#include <iomanip>
-#include <fstream>
+
+#include <fstream.h>
 using namespace std;
+int main{
+
+}
